@@ -1,1 +1,21 @@
-# social-network-API
+# Social-Network-API
+
+## Table of Contents
+* [Description](#description)
+* [Installation](#installation)
+* [Tutorial](#tutorial)
+* [Questions](#questions)
+
+## Description
+This Social Network API was created using mongoDB, mongoose, and express.
+
+It can be used to create new users with usernames and email addresses. Once users have created a username with an email attached, they will be able to add friends, make posts ("thoughts"), add comments to other users posts ("reactions"), and also delete thoughts and reactions, and remove friends.
+
+## Installation
+To install this app, clone this repo, open the command line from the 'server.js' file, then run the following commands: `npm install` to install relevant packages, and then `npm start` to start the server. Once the server has been started, you can open up insomnia and start creating users, thoughts and reactions, and remove them if you want as well.
+
+## Tutorial
+Watch this video to see how to use the API. 
+
+## Questions?
+github: [chris-reilly99] (https://github.com/chris-reilly99)
