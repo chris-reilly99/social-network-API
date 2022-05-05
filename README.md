@@ -15,7 +15,7 @@ It can be used to create new users with usernames and email addresses. Once user
 To install this app, clone this repo, open the command line from the 'server.js' file, then run the following commands: `npm install` to install relevant packages, and then `npm start` to start the server. Once the server has been started, you can open up insomnia and start creating users, thoughts and reactions, and remove them if you want as well.
 
 ## Tutorial
-Watch this video to see how to use the API. 
+Watch the tutorial video in the folder provided at the following link to see how to use the API. [Social Network API Tutorial](https://drive.google.com/drive/folders/1N3r2pJxI1gLtAkTg4pRfQ9bu8aHv2ZR8?usp=sharing)
 
 ## Questions?
 github: [chris-reilly99] (https://github.com/chris-reilly99)
