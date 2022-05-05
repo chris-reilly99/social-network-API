@@ -19,4 +19,4 @@ Watch the tutorial video in the folder provided at the following link to see how
 [Social Network API Tutorial](https://drive.google.com/drive/folders/1N3r2pJxI1gLtAkTg4pRfQ9bu8aHv2ZR8?usp=sharing)
 
 ## Questions?
-github: [chris-reilly99] (https://github.com/chris-reilly99)
+github: [chris-reilly99](https://github.com/chris-reilly99)
